@@ -90,7 +90,7 @@ src/
   one interactive element so you can *see* the behavior, not just read
   about it.
 
-## Scripts
+### Scripts
 
 | Command         | What it does                                      |
 |-----------------|----------------------------------------------------|
