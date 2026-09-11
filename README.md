@@ -26,7 +26,7 @@ npm run build
 npm start
 ```
 
-## How it's organized
+### How it's organized
 
 ```
 src/
