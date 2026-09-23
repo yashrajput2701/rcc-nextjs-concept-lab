@@ -14,7 +14,7 @@ npm run dev
 ```
 
 Open http://localhost:3000 and click "Browse all 28 concepts", or go
-straight to http://localhost:3000/concepts.
+straight to http://localhost:3000/concepts
 
 For rendering-strategy concepts (SSG / SSR / ISR), differences are much
 easier to see in a production build than in `next dev` (which always
