@@ -1,4 +1,4 @@
-# rcc — a Next.js 16 Concept Lab
+# RCC — a Next.js 16 Concept Lab
 
 A single Next.js project (App Router, TypeScript, Tailwind CSS, React 19)
 built to *study* Next.js: every major concept — routing, layouts, rendering
